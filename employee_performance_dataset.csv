@@ -1,0 +1,11 @@
+Employee_ID,Name,Gender,Age,Department,Weekly_Hours,Experience_Years,Performance_Rating
+101,Ramesh,Male,28,Sales,42,3,3.5
+102,Priya,Female,26,HR,38,2,4.2
+103,Amit,Male,30,IT,45,5,4.8
+104,Sneha,Female,25,Marketing,40,2,4.0
+105,Anil,Male,35,Sales,50,8,3.9
+106,Neha,Female,29,IT,46,4,4.5
+107,Vishal,Male,32,HR,36,6,3.6
+108,Komal,Female,27,Marketing,39,3,4.1
+109,Rahul,Male,33,IT,44,7,4.9
+110,Swati,Female,31,Sales,41,6,4.3
